@@ -1,0 +1,23 @@
+{
+  "name": "stimulutils",
+  "version": "1.0.0",
+  "description": "Simple stimulus.js controllers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JovicaSusa/stimulutils.git"
+  },
+  "keywords": [
+    "stimulus.js",
+    "stimulus"
+  ],
+  "author": "Jovica Susa",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/JovicaSusa/stimulutils/issues"
+  },
+  "homepage": "https://github.com/JovicaSusa/stimulutils#readme"
+}
