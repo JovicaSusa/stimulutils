@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/JovicaSusa/stimulutils/issues"
   },
-  "homepage": "https://github.com/JovicaSusa/stimulutils#readme"
+  "homepage": "https://github.com/JovicaSusa/stimulutils#readme",
+  "workspaces": [
+    "packages/swap"
+  ]
 }
